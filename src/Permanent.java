@@ -32,4 +32,9 @@ public class Permanent implements ContractBuilder {
     public Contract SignContract() {
         return null;
     }
+
+    @Override
+    public Contract build() {
+        return new Contract(this.contractId, this.propertyId, this.tenantId, this.rentAmount);
+    }
 }
