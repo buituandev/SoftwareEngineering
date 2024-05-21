@@ -1,37 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1f57ae8-45e2-428f-b68c-8afd9cf13b8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Property.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PropertyOwner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegisteredUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RentalContract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/User.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContractBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongTerm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permanent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShortTerm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "buituandev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;buituandev&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/buituandev/SoftwareEngineeringLab.git",
-    "accountId": "a659b881-10df-4a65-8a67-b95b80a49fa9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/buituandev/SoftwareEngineeringLab.git&quot;,
+    &quot;accountId&quot;: &quot;a659b881-10df-4a65-8a67-b95b80a49fa9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2glTgApN5kO9QR6g69ANBNC3PPF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,13 +53,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Tuan For Study Data/CSE/CSE 305/Labs/Software Engineering",
+    "last_opened_file_path": "E:/Tuan For Study Data/CSE/CSE 305/Labs/SoftwareEngineering",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SoftwareEngineering" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SoftwareEngineering" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716271273662</updated>
       <workItem from="1716271274769" duration="77000" />
+      <workItem from="1716271516837" duration="2178000" />
     </task>
     <servers />
   </component>
