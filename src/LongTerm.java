@@ -30,7 +30,7 @@ public class LongTerm implements ContractBuilder {
 
     @Override
     public Contract SignContract() {
-        return null;
+        return new Contract(this.contractId, this.propertyId, this.tenantId, this.rentAmount);
     }
 
     @Override
